@@ -20,4 +20,4 @@ Eficiencia temporal y espacial, manejo de memoria.
 ![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rociojaramillo&layout=compact&theme=dark&bg_color=000000&hide_border=true)
 
 #### 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ana-rocio-jaramillo-b741ab404)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-rocio-jaramillo-b741ab404)
